@@ -1,0 +1,5 @@
+Things implemented: 
+Made the program playable.
+The stand function now works.
+The game can now be played in different ways. For example, if the player and dealer ends on the same score, the player now wins instead. This can easily be changed back by including the IsDealerWinner function instead. 
+The program will also include a deal when the player/dealer has done a hit. Lastly, the soft 17 rule has also been included. 
